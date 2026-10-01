@@ -1,0 +1,8 @@
+{
+  "name": "PastelPouch - AI Subscription & Spending Analyzer",
+  "description": "Whimsical AI subscription and spending analyzer with animated pastel mascots, machine-learning recurring charge detection, price hike alerts, monthly budget caps, and automated cancellation reminders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
